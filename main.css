@@ -1,0 +1,110 @@
+body {
+    color: #323232;
+}
+
+h1, h2, h3, h4 {
+    padding: 0;
+    margin: 0;
+}
+
+.col-md-1, 
+.col-md-2{
+    text-align: center;
+}
+
+.fa-plus-square {
+    font-size: 3.5rem;
+}
+
+.col-md-1, 
+.col-md-2, 
+.col-md-3,
+.col-md-4, 
+.col-md-5,
+.col-md-6, 
+.col-md-7, 
+.col-md-8,
+.col-md-9, 
+.col-md-10,
+.col-md-11, 
+.col-md-12 {
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    margin: 0
+}
+
+.row {
+    margin: 1rem 0;
+}
+
+.top-bar {
+    background-color: #323232;
+    color: #FFF;
+    margin-top: 5rem;
+}
+
+.middle-box {
+    background-color: #FFF;
+}
+
+.middle-box h2 {
+    padding: 1rem 0;
+}
+
+.title {
+    padding: 1rem 0;
+    padding-left: 3rem;
+}
+
+.info {
+    margin-top: 3rem;
+}
+
+h1 {
+    font-size: 5rem;
+    margin: 0;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+.name h2 {
+    color: #7f7f7f;
+}
+
+.get-in-touch {
+    border-bottom: 2px solid #000;
+    border-bottom-style: dotted;
+}
+
+.contact-icon {
+    font-size: 4rem;
+}
+
+.contact {
+    padding-left: 5rem;
+}
+
+.contact p {
+    color: #7f7f7f;
+}
+
+.heading {
+    border-bottom-style: dotted;
+}
+
+.fa-circle-o {
+    color: #999999;
+}
+
+.link {
+    color: #7f7f7f;
+}
+
+.bold {
+    font-weight: bold;
+}
